@@ -10,6 +10,7 @@ python Betweenness_Centrality.py MyGraph.txt
 As usual, the vertices in the edge list file are labeled with values between 0 and|V|-1.
 
 Output: to the standard output the Betweenness centrality (Eq. 7.29 of Newman 2010) of all vertices with their indices:
+
 [0] 0.37326 
 
 [1] 1.07425 
